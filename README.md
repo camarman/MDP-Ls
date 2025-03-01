@@ -23,18 +23,18 @@ meanwhile, in GNU/Linux
 
 ## Attribution
 
-If you find this code useful, please cite our [research](https://arxiv.org/abs/2502.20384)
+If you find this code useful, please cite our [research](https://inspirehep.net/literature/2895315)
 
 BibTeX Format:
 
-    @misc{akarsu2025linearmatterdensityperturbations,
-      title={Linear matter density perturbations in the $\Lambda_{\rm s}$CDM model: Examining growth dynamics and addressing the $S_8$ tension},
-      author={Özgür Akarsu and Arman Çam and Evangelos A. Paraskevas and Leandros Perivolaropoulos},
-      year={2025},
-      eprint={2502.20384},
-      archivePrefix={arXiv},
-      primaryClass={astro-ph.CO},
-      url={https://arxiv.org/abs/2502.20384},
+    @article{Akarsu:2025ijk,
+        author = {Akarsu, \"Ozg\"ur and \c{C}am, Arman and Paraskevas, Evangelos A. and Perivolaropoulos, Leandros},
+        title = "{Linear matter density perturbations in the $\Lambda_{\rm s}$CDM model: Examining growth dynamics and addressing the $S_8$ tension}",
+        eprint = "2502.20384",
+        archivePrefix = "arXiv",
+        primaryClass = "astro-ph.CO",
+        month = "2",
+        year = "2025"
     }
 
 ## Contributors
