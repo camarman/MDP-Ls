@@ -82,8 +82,8 @@ params = {
 pylab.rcParams.update(params)
 fig, ax0 = plt.subplots()
 
-ax0.plot(z_vals, fs8_lcdm, color='#BB5566', ls='--', lw=6.0, label=r'$f_{\Lambda}$')
-ax0.plot(z_vals, fs8_lscdm, color='#004488', ls='-', lw=6.0, label=r'$f_{\Lambda_{\rm s}}$')
+ax0.plot(z_vals, fs8_lcdm, color='#BB5566', ls='--', lw=6.0, label=r'$f_{\Lambda}\sigma_8$')
+ax0.plot(z_vals, fs8_lscdm, color='#004488', ls='-', lw=6.0, label=r'$f_{\Lambda_{\rm s}}\sigma_8$')
 
 # =========================== Data points ===========================
 # Data from the table
