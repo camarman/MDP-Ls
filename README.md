@@ -25,21 +25,6 @@ meanwhile, in GNU/Linux
 
 If you find this code useful, please cite our [research](https://inspirehep.net/literature/2895315)
 
-BibTeX Format:
-
-    @article{Akarsu:2025ijk,
-        author = {Akarsu, {\"O}zg{\"u}r and {\c{C}}am, Arman and Paraskevas, Evangelos A. and Perivolaropoulos, Leandros},
-        title = "{Linear matter density perturbations in the {\ensuremath{\Lambda}}$_{s}$CDM model: Examining growth dynamics and addressing the S $_{8}$ tension}",
-        eprint = "2502.20384",
-        archivePrefix = "arXiv",
-        primaryClass = "astro-ph.CO",
-        doi = "10.1088/1475-7516/2025/08/089",
-        journal = "JCAP",
-        volume = "08",
-        pages = "089",
-        year = "2025"
-    }
-
 ## Contributors
 
 Arman Çam & Evangelos A. Paraskevas
