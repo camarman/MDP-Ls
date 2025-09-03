@@ -10,7 +10,7 @@ from src.tools import sn
 ######################################################
 # -------------------- PARAMETERS --------------------
 ######################################################
-a_ini = 1e-3                          # initial scale factor
+a_ini = 1e-3                        # initial scale factor
 a_col = 1.0                         # collapse scale factor
 
 Om0_lcdm = Om0_finder_LCDM()          # LCDM matter density parameter

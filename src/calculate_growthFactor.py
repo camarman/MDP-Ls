@@ -49,7 +49,7 @@ def growthFactor_LCDM(a_eval, a_ini, a_col, Om0, delta_ini, delta_prime_ini, nor
         return res['y'][0, 0]
 
     if norm_method == 'norm':
-        return deltaMatter(a_eval) / deltaMatter(a_eval=1)
+        return deltaMatter(a_eval) / deltaMatter(a_eval=a_col)
     elif norm_method == 'unnorm':
         return deltaMatter(a_eval)
 

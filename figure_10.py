@@ -105,7 +105,7 @@ ax0.plot(a_vals, f_lscdm_numerical, color='#004488',
 ax0.plot(a_vals_AdS, f_lscdm_analytical_AdS, color='#004488',
          ls='--', lw=6.0, label=r'$f_{\Lambda_{\rm s}}$ (Analytical)')
 ax0.plot(a_vals_dS, f_lscdm_analytical_dS, color='#004488',
-         ls='--', lw=6.0, label=r'$f_{\Lambda_{\rm s}}$ (Analytical)')
+         ls='--', lw=6.0)
 
 ax0.set_xlim(1e-2, 1)
 ax0.set_ylim(0.4, 1.2)

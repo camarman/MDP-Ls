@@ -1,7 +1,7 @@
 import numpy as np
 import scipy as sp
 
-from models.radiation_calc import Orh2, Oph2
+from models.radiation_calc import Orh2
 
 
 ######################################################

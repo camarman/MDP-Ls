@@ -71,7 +71,7 @@ import scienceplots
 plt.style.use(['science', 'high-vis'])
 
 params = {
-    'legend.fontsize': '27',
+    'legend.fontsize': '26',
     'axes.labelsize':  '50',
     'figure.figsize':  (18, 12),
     'xtick.labelsize': '50',
@@ -82,8 +82,8 @@ params = {
 pylab.rcParams.update(params)
 fig, ax0 = plt.subplots()
 
-ax0.plot(z_vals, fs8_lcdm, color='#BB5566', ls='--', lw=6.0, label=r'$f_{\Lambda}\sigma_8$')
-ax0.plot(z_vals, fs8_lscdm, color='#004488', ls='-', lw=6.0, label=r'$f_{\Lambda_{\rm s}}\sigma_8$')
+ax0.plot(z_vals, fs8_lcdm, color='#BB5566', ls='--', lw=6.0, label=r'$f\sigma_{8}$ ($\Lambda$CDM)')
+ax0.plot(z_vals, fs8_lscdm, color='#004488', ls='-', lw=6.0, label=r'$f\sigma_{8}$ ($\Lambda_{\rm s}$CDM)')
 
 # =========================== Data points ===========================
 # Data from the table
